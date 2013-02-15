@@ -1,4 +1,4 @@
-Django Protetected Downloads
+Django Protected Downloads
 ============================
 
 This app provides simple ownership verification before allowing a file download.
